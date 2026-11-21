@@ -47,5 +47,5 @@ Arabic (native) · English (professional) · Hungarian (conversational) · Germa
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourel4waf/)
 [![Email](https://img.shields.io/badge/Email-3DDBD9?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:nourelshawaf@mailbox.unideb.hu)
