@@ -15,7 +15,7 @@ Third-year Mechatronics Engineering student at the **University of Debrecen**. I
 I'm looking for internships in **automotive, AI/automation, robotics and embedded systems**.
 
 ## 🔭 What I'm working on now
-
+- 🏆 **Agentic AI Hackathon, Debrecen (Nov 2026):** our team Cosmo won Best Project Built with ElevenLabs with Caller AI. I built the voice pipeline
 - 🏎️ **CURT, Perception & SLAM:** LiDAR point-cloud processing for FS-AI 2026
 - 🦾 **Digital twin of an SO-101 bimanual arm setup:** MuJoCo simulation drives the real arms
 - 🧭 **Learning:** ROS 2 and Gazebo, on top of path-planning algorithms in MATLAB
