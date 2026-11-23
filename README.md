@@ -15,6 +15,7 @@ Third-year Mechatronics Engineering student at the **University of Debrecen**. I
 I'm looking for internships in **automotive, AI/automation, robotics and embedded systems**.
 
 ## 🔭 What I'm working on now
+
 - 🏆 **Agentic AI Hackathon, Debrecen (Nov 2026):** our team Cosmo won Best Project Built with ElevenLabs with Caller AI. I built the voice pipeline
 - 🏎️ **CURT, Perception & SLAM:** LiDAR point-cloud processing for FS-AI 2026
 - 🦾 **Digital twin of an SO-101 bimanual arm setup:** MuJoCo simulation drives the real arms
@@ -25,11 +26,11 @@ I'm looking for internships in **automotive, AI/automation, robotics and embedde
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Caller AI**](https://github.com/Mustafa-8/cosmo-phone-agent) | Live phone interpreter for hospitals: the caller speaks their own language and the receptionist hears it in Hungarian, and the other way round. Built in 6 hours, won Best Project Built with ElevenLabs. I did the voice side: Scribe live STT, mic streaming, TTS, playback and interruption | Python · FastAPI · ElevenLabs · Gemini · React |
 | [**KEMET**](https://github.com/nourelshawaf/KEMET) | Autonomous maze-solving robot: RFID path detection, N20 encoder motors, records the maze on the first run and follows the best route after | ESP32 / Pico · Python |
 | [**Digital-Twin-SO101**](https://github.com/nourelshawaf/Digital-Twin-SO101) | Bimanual SO-101 setup where the MuJoCo sim is the master and the real arms follow. Teach and replay a t-shirt fold | Python · MuJoCo · LeRobot |
 | [**lineaddict**](https://github.com/nourelshawaf/lineaddict) | 5-channel IR line follower on an Arduino Nano with an L298N driver | C++ · Arduino |
 | [**JobHunter**](https://github.com/nourelshawaf/JobHunter) | Internship discovery, scoring and application assistant: 14 sources, Streamlit dashboard, Telegram alerts | Python |
-| [Caller AI](https://github.com/Mustafa-8/cosmo-phone-agent) | Live phone interpreter for hospitals: the caller speaks their own language and the receptionist hears it in Hungarian, and the other way round. Built in 6 hours, won Best Project Built with ElevenLabs. I did the voice side: Scribe live STT, mic streaming, TTS, playback and interruption | Python · FastAPI · ElevenLabs · Gemini · React |
 
 ## ⚙️ Tech stack
 
@@ -41,6 +42,17 @@ I'm looking for internships in **automotive, AI/automation, robotics and embedde
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+
+**AI tools and cloud services**
+
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-1F4E79?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## 🌍 Languages
 
