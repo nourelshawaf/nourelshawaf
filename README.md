@@ -29,6 +29,7 @@ I'm looking for internships in **automotive, AI/automation, robotics and embedde
 | [**Digital-Twin-SO101**](https://github.com/nourelshawaf/Digital-Twin-SO101) | Bimanual SO-101 setup where the MuJoCo sim is the master and the real arms follow. Teach and replay a t-shirt fold | Python · MuJoCo · LeRobot |
 | [**lineaddict**](https://github.com/nourelshawaf/lineaddict) | 5-channel IR line follower on an Arduino Nano with an L298N driver | C++ · Arduino |
 | [**JobHunter**](https://github.com/nourelshawaf/JobHunter) | Internship discovery, scoring and application assistant: 14 sources, Streamlit dashboard, Telegram alerts | Python |
+| [Caller AI](https://github.com/Mustafa-8/cosmo-phone-agent) | Live phone interpreter for hospitals: the caller speaks their own language and the receptionist hears it in Hungarian, and the other way round. Built in 6 hours, won Best Project Built with ElevenLabs. I did the voice side: Scribe live STT, mic streaming, TTS, playback and interruption | Python · FastAPI · ElevenLabs · Gemini · React |
 
 ## ⚙️ Tech stack
 
